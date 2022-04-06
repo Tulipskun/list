@@ -1,4 +1,6 @@
 return {
+  version = 10,
+  admin = true,
   t1 = 12346,
   t2 = 65431,
   t3 = 76541
